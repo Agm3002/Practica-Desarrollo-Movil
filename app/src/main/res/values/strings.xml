@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppProductos</string>
+    <string name="no_products_available">No hay productos disponibles.</string>
+    <string name="Dismiss">Cancelar</string>
+    <string name="Confirm">Confirmar</string>
+    <string name="Delete">Producto a eliminar</string>
+    <string name="Update">Producto a actualizar</string>
+    <string name="Add">Producto Nuevo</string>
+    <string name="Action_Undone">El producto será eliminado y no podrá revertirlo.</string>
+    <string name="Action_update">El producto será modificado.</string>
+    <string name="Action_add">El producto será agregado.</string>
+</resources>
